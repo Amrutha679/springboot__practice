@@ -1,0 +1,10 @@
+com\mondee\repository\StudentRepository.class
+com\mondee\ServerApplication.class
+com\mondee\model\Employee.class
+com\mondee\model\Institute.class
+com\mondee\model\Course.class
+com\mondee\repository\InstituteRepository.class
+com\mondee\controller\StudentController.class
+com\mondee\model\Student.class
+com\mondee\repository\CourseRepository.class
+com\mondee\service\StudentService.class
